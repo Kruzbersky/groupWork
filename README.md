@@ -1,5 +1,5 @@
 # groupWork  
 
 -ČLENOVÉ:  
-Martin Vácha  
-Jakub Kružberský  
+Martin Vácha @mvachic  
+Jakub Kružberský @Kruzbersky  
